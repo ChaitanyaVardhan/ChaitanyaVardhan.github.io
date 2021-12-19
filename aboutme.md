@@ -9,5 +9,5 @@ My name is Chaitanya Vardhan. I am an engineer at a tech startup. I am a 2005 gr
 
 ### My story
 
-Frankly, I am not here to tell my story. Nor do I like telling stories. This is my corner on the internet and I
+It feels great to have my corner on the internet.I
 will mainly post about tech and a little about movies, tv shows and other stuff that I find interesting.
