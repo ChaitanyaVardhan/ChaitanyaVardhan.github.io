@@ -1,3 +1,6 @@
+---
+tags: [static-websites]
+---
 Take the gasbyjs [gatsbyjs](https://github.com/gatsbyjs/gatsby) boilerplate page and host it using github pages with custom domain. Website will be live on prefix.domain. In my case [https://web.chaitanyavardhan.com](https://web.chaitanyavardhan.com).  
 Dev Environment:  
 NPM, Mac Terminal, Git

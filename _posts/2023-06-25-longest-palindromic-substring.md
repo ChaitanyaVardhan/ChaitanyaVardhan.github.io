@@ -1,3 +1,6 @@
+---
+tags: [dynamic programming]
+---
 Finding the longest palindrome in the string RACECAR. 
 A cell (i, j) corresponds to a substring S[i...j] . For example, cell (1, 5) corresponds to Substring RACEC.  
 The table will be filled by filling each cell in a row starting from the bottom row and then moving to the next row above. At each step if a substring is found to be palindrome, it's length can be compared to the maximum length string seen so far.  

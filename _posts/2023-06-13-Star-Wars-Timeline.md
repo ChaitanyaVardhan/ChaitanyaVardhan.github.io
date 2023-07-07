@@ -1,3 +1,6 @@
+---
+tags: [trivia]
+---
 Two amazing links to understand the timeline of Star Wars.
 + [https://screenrant.com/star-wars-republic-eras-differences-explained/](https://screenrant.com/star-wars-republic-eras-differences-explained/)  
 + [https://starwars.fandom.com/wiki/Galactic_Empire](https://starwars.fandom.com/wiki/Galactic_Empire)  

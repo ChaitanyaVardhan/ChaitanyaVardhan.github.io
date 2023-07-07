@@ -1,3 +1,6 @@
+---
+tags: [bash, zsh]
+---
 Brew Installation  
 [https://osxdaily.com/2023/04/19/fix-brew-command-not-found-on-mac-with-zsh/](https://osxdaily.com/2023/04/19/fix-brew-command-not-found-on-mac-with-zsh/)    
 Adding `brew` to the path in MAC  

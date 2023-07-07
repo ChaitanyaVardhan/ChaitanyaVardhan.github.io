@@ -1,3 +1,6 @@
+---
+tags: [static-websites]
+---
 Prerequisites: npm  
 Dev Environment: Terminal on Mac M1  
 ```

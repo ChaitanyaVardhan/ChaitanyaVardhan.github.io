@@ -1,3 +1,6 @@
+---
+tags: [fastapi, web-frameworks, python]
+---
 Update the `apt` package index and install packages to allow apt to use repositories over https  
 ```
 sudo apt-get update  

@@ -1,3 +1,6 @@
+---
+tags: [recursion]
+---
 ![tree](https://chaitanyavardhan-blog-assets.s3.amazonaws.com/Screenshot+2023-05-28+at+4.46.33+PM.png)
 Picture 1, Tree  
 
