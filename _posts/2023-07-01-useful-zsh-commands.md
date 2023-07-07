@@ -1,7 +1,7 @@
 ---
 tags: [bash, zsh]
 ---
-Brew Installation  
+### Brew Installation  
 [https://osxdaily.com/2023/04/19/fix-brew-command-not-found-on-mac-with-zsh/](https://osxdaily.com/2023/04/19/fix-brew-command-not-found-on-mac-with-zsh/)    
 Adding `brew` to the path in MAC  
 ```
@@ -19,6 +19,6 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 ```  
 
 
-Apache Installation:
+### Apache Installation:
 
 [https://tecadmin.net/install-apache-macos-homebrew/](https://tecadmin.net/install-apache-macos-homebrew/)
