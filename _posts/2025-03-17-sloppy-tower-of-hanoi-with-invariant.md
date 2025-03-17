@@ -36,7 +36,7 @@ Starting from [D2, D4] | [D1, D3, D5] | [], I moved discs randomly but legally. 
 
 `[d3d4] | [d1d2] | [d5]`
 
-` [d4] | [d1d2] | [d3d5]`
+`[d4] | [d1d2] | [d3d5]`
 
 `[d4] | [d2] | [d1d3d5]` 
 
